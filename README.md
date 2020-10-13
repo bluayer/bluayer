@@ -7,7 +7,7 @@
 
 📫 How to reach me: ...
 
-[![Bluayer's github stats](https://github-readme-stats.vercel.app/api/?username=bluayer&theme=dracular&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bluayer's github stats](https://github-readme-stats.vercel.app/api/?username=bluayer/&theme=dracular&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluayer)](https://github.com/anuraghazra/github-readme-stats)
 
