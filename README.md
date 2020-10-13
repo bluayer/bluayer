@@ -9,5 +9,6 @@
 
 [![Bluayer's github stats](https://github-readme-stats.vercel.app/api?username=bluayer&count_private=true&theme=dracular&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluayer)](https://github.com/anuraghazra/github-readme-stats)
 
 
