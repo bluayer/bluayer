@@ -1,9 +1,10 @@
-### Hi there 👋 I'm Junior Backend Developer, Jungwoo Song :)
+### Hi there 👋 
+### I'm Junior Backend Developer, Jungwoo Song :)
 
 ---
 
 🔭 **I’m currently working on ...**
-- 전동 킥보드 서비스 및 MaaS 서비스의 Backend & Infra를 개발하고 있습니다.
+- 전동 킥보드 서비스 및 MaaS(Mobility as a Service) Backend & Infra를 개발하고 있습니다.
 - 주로 Node.js 위에서 개발하고, Spring boot로도 간간히 개발합니다.
 - 주로 ES5+, TypeScript로 개발하고 있습니다.
 
