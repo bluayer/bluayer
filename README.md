@@ -13,9 +13,9 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
   <li>Functional Programming </li>
-  <li><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </li>
   <li>gRPC </li>
   <li>Terraform</li>
+  <li><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </li>
   <li><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></li>
 </ul>
 
