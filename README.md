@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Hey! Nice to See you </h1>
 
----
-
 <p>Welcome to my page! </br>
 I'm Jungwoo Song, junior backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
 
