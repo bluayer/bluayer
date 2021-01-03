@@ -5,18 +5,16 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
-  <li>I mainly develop <b>backend and infrastructure</b> for electric kickboard service and MaaS service.</li>
+  <li>I mainly develop <b>backend and infrastructure</b></li>
   <li>Mainly developed on <b>Node.js</b>, and occasionally with <b>Spring boot.</b></li>
   <li>I love developing with <b>ES5+, TypeScript</b> 🥰</li>
 </ul>
 
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
-  <li>Functional Programming </li>
-  <li>gRPC </li>
-  <li>Terraform</li>
-  <li><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </li>
-  <li><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></li>
+  <li>Spring Boot </li>
+  <li>Deep dive in Java </li>
+  <li>JPA</li>
 </ul>
 
 <h3>✨ Languages And Tools ...</h3>
@@ -25,7 +23,6 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -40,7 +37,7 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 
 <h3>📫 How to reach me ...</h3>
 <ul>
-  <li>Email: ijasong98@gmail.com || jungwoo.song@deering.co</li>
+  <li>Email: ijasong98@gmail.com || jungwoo.song@ngine.co.kr</li>
   <li>Blog: https://hack-jam.tistory.com</li>
 </ul>
 
