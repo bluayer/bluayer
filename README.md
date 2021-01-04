@@ -7,13 +7,14 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 <ul>
   <li>I mainly develop <b>backend and infrastructure</b></li>
   <li>Mainly developed on <b>Node.js</b>, and occasionally with <b>Spring boot.</b></li>
+  <li>But i will develop with Spring boot mainly.
   <li>I love developing with <b>ES5+, TypeScript</b> 🥰</li>
 </ul>
 
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
   <li>Spring Boot </li>
-  <li>Deep dive in Java </li>
+  <li>Effectvie Java </li>
   <li>JPA</li>
 </ul>
 
