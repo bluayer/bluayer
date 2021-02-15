@@ -6,30 +6,32 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
   <li>I mainly develop <b>backend and infrastructure</b></li>
-  <li>Mainly developed on <b>Node.js</b>, and occasionally with <b>Spring boot.</b></li>
-  <li>But i will develop with Spring boot mainly.
-  <li>I love developing with <b>ES5+, TypeScript</b> 🥰</li>
+  <li>Mainly developed with <b>Spring Boot</b>, and occasionally on <b>Node.js.</b></li>
+  <li>I develop with Spring Boot and Spring Batch mainly in these days.
+  <li>I love developing with <b>java, kotlin and TS</b> 🥰</li>
 </ul>
 
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
-  <li>Spring Boot </li>
-  <li>Effectvie Java </li>
-  <li>JPA</li>
+  <li>Spring Boot with Kotlin</li>
 </ul>
 
-<h3>✨ Languages And Tools ...</h3>
+<h3>🙌 What i have ...</h3>
+<p align="center">
+  <img src="https://images.youracclaim.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/>
+</p>
 
+<h3>✨ Languages And Tools ...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
