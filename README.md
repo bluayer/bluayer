@@ -43,8 +43,8 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 
 <h3>📫 How to reach me ...</h3>
 <ul>
-  <li>Email: ijasong98@gmail.com || jungwoo.song@ngine.co.kr</li>
-  <li>Blog: https://hack-jam.tistory.com</li>
+  <li>Email: ijacsong98@gmail.com || jungwoo.song@ngine.co.kr</li>
+  <li>Blog: https://bluayer.com</li>
 </ul>
 
 ---
