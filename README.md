@@ -51,15 +51,17 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
   <li>Blog: https://bluayer.com</li>
 </ul>
 
+
+---
+
+**Solved.ac**
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddn0728">
+
 ---
 
 **Github Stats** (organization contribution is not included)
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddn0728">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bluayer&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bluayer&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
 
 ---
-
