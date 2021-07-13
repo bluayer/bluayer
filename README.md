@@ -15,7 +15,9 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
 
 <h3>🌱 I’m currently learning ...</h3>
 <ul>
-  <li>Spring Boot with Kotlin</li>
+  <li>Spring Boot</li>
+  <li> Kotlin & Golang as hobby😅 </li>
+  <li> FP(Functional Programming) </li>
 </ul>
 
 <h3>🙌 What i have ...</h3>
