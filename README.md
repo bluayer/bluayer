@@ -13,16 +13,14 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
   <li>I love developing with <b>java, kotlin.</b> 🥰</li>
 </ul>
 
-<h3>🌱 I’m currently learning ...</h3>
-<ul>
-  <li> Spring Boot</li>
-  <li> k8s & istio </li>
-</ul>
+<br>
 
 <h3>🙌 What i have ...</h3>
 <p align="center">
   <img width = 100, height =100, src="https://images.youracclaim.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/>
 </p>
+
+<br>
 
 <h3>✨ Languages And Tools ...</h3>
 <p align="center">
@@ -30,24 +28,15 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+<br>
 
 <h3>📫 How to reach me ...</h3>
 <ul>
-  <li>Email: ijacsong98@gmail.com || jungwoo.song@ngine.co.kr</li>
+  <li>Email: bluayer@gmail.com || jungwoo.song@ngine.co.kr</li>
   <li>Blog: https://bluayer.com</li>
 </ul>
-
----
-
-**Github Stats** (organization contribution is not included)
-
-<img src="https://github-readme-stats.vercel.app/api?username=bluayer&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
-
----
