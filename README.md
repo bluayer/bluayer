@@ -3,13 +3,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Hey! Nice to See you </h1>
 
 <p>Welcome to my page! </br>
-I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
+I'm <b>Jungwoo Song</b>, backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
   <li>I mainly develop <b>backend and infrastructure</b></li>
   <li>Mainly developed with <b>Spring Boot</b>, and rarely on <b>Node.js.</b></li>
-  <li>I develop with Spring Boot, k8s mainly in these days.
+  <li>I develop with Spring Boot mainly in these days.
   <li>I love developing with <b>java, kotlin.</b> 🥰</li>
 </ul>
 
