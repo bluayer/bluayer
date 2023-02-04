@@ -3,22 +3,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Hey! Nice to See you </h1>
 
 <p>Welcome to my page! </br>
-I'm <b>Jungwoo Song</b>, backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
+I'm <b>Jungwoo Song</b>, solutions architect from  <b>Seoul, Korea</b> 🇰🇷 </p>
 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
   <li>I mainly develop <b>backend and infrastructure</b></li>
   <li>Mainly developed with <b>Spring Boot</b>, and rarely on <b>Node.js.</b></li>
-  <li>I develop with Spring Boot mainly in these days.
-  <li>I love developing with <b>java, kotlin.</b> 🥰</li>
 </ul>
-
-<br>
-
-<h3>🙌 What i have ...</h3>
-<p align="center">
-  <img width = 100, height =100, src="https://images.youracclaim.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/>
-</p>
 
 <br>
 
@@ -37,6 +28,6 @@ I'm <b>Jungwoo Song</b>, backend developer from  <b>Seoul, Korea</b> 🇰🇷 </
 
 <h3>📫 How to reach me ...</h3>
 <ul>
-  <li>Email: bluayer@gmail.com || jungwoo.song@ngine.co.kr</li>
+  <li>Email: bluayer@gmail.com</li>
   <li>Blog: https://bluayer.com</li>
 </ul>
