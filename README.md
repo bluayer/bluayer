@@ -8,7 +8,7 @@ I'm <b>Jungwoo Song</b>, solutions architect from  <b>Seoul, Korea</b> 🇰🇷 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
   <li>I mainly develop <b>backend and infrastructure</b></li>
-  <li>Mainly developed with <b>Spring Boot</b>, and rarely on <b>Node.js.</b></li>
+  <li>Mainly developed with <b>Spring Boot</b> and <b>Node.js.</b></li>
 </ul>
 
 <br>
