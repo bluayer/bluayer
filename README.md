@@ -1,7 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluayer&count_bg=%23B928EF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Hey! Nice to See you </h1>
-
 <p>Welcome to my page! </br>
 I'm <b>Jungwoo Song</b>, solutions architect from  <b>Seoul, Korea</b> 🇰🇷 </p>
 
