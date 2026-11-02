@@ -6,6 +6,12 @@ I'm **Jungwoo Song**, solutions architect from **Seoul, Korea**.
 
 Contribute to LMCache, Valkey, KServe, Karmada
 
+### Recent PRs I'm enjoying
+  
+- `2026.10` Growing padded full attention blocks in vLLM to fill the unified KV page, adding about 16% KV cache capacity for hybrid models like Gemma-4 and Qwen3.6 ([vllm#63347](https://github.com/vllm-project/vllm/pull/63347))
+- `2026.10` Adding a POSIX fd delivery channel so LMCache MP mode can register VMM KV pools on GPUs without IMEX ([LMCache#5867](https://github.com/LMCache/LMCache/pull/5867))
+- `2026.08` Adding a claim-scoped local IPC directory to the NVIDIA GPU DRA driver, enabling cross-Pod CUDA IPC without hostIPC or hostPath ([dra-driver-nvidia-gpu#1391](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1391))
+
 ### LMCache
 
 - `2026.10` Fixed KV registration for hybrid models with padded KV pools under CUDA IPC ([#5693](https://github.com/LMCache/LMCache/pull/5693), [#5855](https://github.com/LMCache/LMCache/pull/5855))
