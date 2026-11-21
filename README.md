@@ -2,9 +2,9 @@ Welcome to my page!
 
 I'm **Jungwoo Song**, solutions architect from **Seoul, Korea**.
 
-## I'm currently working on ...
+### DRA Driver for NVIDIA GPUs
 
-Contribute to LMCache, Valkey, KServe, Karmada
+- `2026.11` Added a claim-scoped local IPC directory, enabling cross-Pod CUDA IPC without hostIPC or hostPath ([#1391](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1391))
 
 ### LMCache
 
@@ -40,10 +40,6 @@ Contribute to LMCache, Valkey, KServe, Karmada
 ### Karmada
 
 - `2026.08` Built seven agent skills for Karmada users through the LFX Mentorship program ([community#216](https://github.com/karmada-io/community/pull/216))
-
-### DRA Driver for NVIDIA GPUs
-
-- `2026.11` Added a claim-scoped local IPC directory, enabling cross-Pod CUDA IPC without hostIPC or hostPath ([#1391](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1391))
 
 ## How to reach me ...
 
