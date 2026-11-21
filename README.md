@@ -6,14 +6,9 @@ I'm **Jungwoo Song**, solutions architect from **Seoul, Korea**.
 
 Contribute to LMCache, Valkey, KServe, Karmada
 
-### Recent PRs I'm enjoying
-  
-- `2026.10` Growing padded full attention blocks in vLLM to fill the unified KV page, adding about 16% KV cache capacity for hybrid models like Gemma-4 and Qwen3.6 ([vllm#63347](https://github.com/vllm-project/vllm/pull/63347))
-- `2026.10` Adding a POSIX fd delivery channel so LMCache MP mode can register VMM KV pools on GPUs without IMEX ([LMCache#5867](https://github.com/LMCache/LMCache/pull/5867))
-- `2026.08` Adding a claim-scoped local IPC directory to the NVIDIA GPU DRA driver, enabling cross-Pod CUDA IPC without hostIPC or hostPath ([dra-driver-nvidia-gpu#1391](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1391))
-
 ### LMCache
 
+- (In progress) `2026.10` Adding a POSIX fd delivery channel so MP mode can register VMM KV pools on GPUs without IMEX ([#5867](https://github.com/LMCache/LMCache/pull/5867))
 - `2026.10` Fixed KV registration for hybrid models with padded KV pools under CUDA IPC ([#5693](https://github.com/LMCache/LMCache/pull/5693), [#5855](https://github.com/LMCache/LMCache/pull/5855))
 - `2026.10` Supported KV events under MultiConnector for P/D disaggregation ([#5524](https://github.com/LMCache/LMCache/pull/5524))
 - `2026.08` Made hostIPC optional in the LMCache operator, part of the [2026 Q3 roadmap](https://github.com/LMCache/LMCache/issues/4025) to remove the hostIPC and privileged mode requirements ([#4399](https://github.com/LMCache/LMCache/pull/4399))
@@ -28,6 +23,16 @@ Contribute to LMCache, Valkey, KServe, Karmada
 - `2025.03` Documented the valkey-benchmark `--rfr` option ([valkey-doc#254](https://github.com/valkey-io/valkey-doc/pull/254))
 - `2024.12` Enabled reads from replicas in valkey-benchmark for more accurate cluster-mode testing ([valkey#1392](https://github.com/valkey-io/valkey/pull/1392))
 
+#### GLIDE RDMA
+
+- (In progress) `2026.11` Registering CUDA tensors such as `torch.Tensor` and CuPy arrays in Python glide-sync, so the server reads and writes GPU memory directly ([valkey-glide#7812](https://github.com/valkey-io/valkey-glide/pull/7812))
+- (In progress) `2026.11` Adding fabric groups and shared regions, so clients register memory once and run concurrent transfers through it ([valkey-glide#7587](https://github.com/valkey-io/valkey-glide/pull/7587))
+- `2026.11` Registered CUDA device memory for RDMA transfers, so GPU data moves to and from Valkey without a copy through a host buffer ([valkey-glide#7609](https://github.com/valkey-io/valkey-glide/pull/7609))
+
+### NIXL
+
+- (In progress) `2026.11` Adding a Valkey storage plugin that moves NIXL buffers to and from Valkey over GLIDE RDMA, without sending the payload over RESP ([#2577](https://github.com/ai-dynamo/nixl/pull/2577))
+
 ### KServe
 
 - `2026.02` Parallelized S3 file downloads, making model downloads about 2x faster ([#5102](https://github.com/kserve/kserve/pull/5102))
@@ -35,6 +40,10 @@ Contribute to LMCache, Valkey, KServe, Karmada
 ### Karmada
 
 - `2026.08` Built seven agent skills for Karmada users through the LFX Mentorship program ([community#216](https://github.com/karmada-io/community/pull/216))
+
+### DRA Driver for NVIDIA GPUs
+
+- `2026.11` Added a claim-scoped local IPC directory, enabling cross-Pod CUDA IPC without hostIPC or hostPath ([#1391](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1391))
 
 ## How to reach me ...
 
